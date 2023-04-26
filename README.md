@@ -12,6 +12,8 @@ This repository contains a Python implementation of the classic Snake game with 
 # Requirements
 - Python 3.x
 - Pygame
+- Numpy (required for the AI model, will be added when the model is ready)
+- PyTorch (required for the AI model, will be added when the model is ready)
 
 # How to Play
 To play the game solo, simply run main.py and select option 1. Use the arrow keys to move the snake and try to eat as many apples as possible without colliding with the walls or your own body.
