@@ -19,4 +19,4 @@ To play the game solo, simply run main.py and select option 1. Use the arrow key
 To launch the AI, select option 2 in main.py. This will start the AI model that will learn to play Snake over time. The AI will attempt to maximize its score by making moves based on what it has learned from its previous games.
 
 # Future Improvements
-Currently, the AI module is under development and not yet available. In the future, the AI will be trained using machine learning techniques such as reinforcement learning to improve its performance.
+Currently, the AI module is under development and not yet available. In the future, the AI will be trained using machine learning techniques such as reinforcement learning to improve its performance. Additionally, the code will be refactored and cleaned up to improve readability and maintainability.
