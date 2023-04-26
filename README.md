@@ -5,9 +5,9 @@ This repository contains a Python implementation of the classic Snake game with 
 
 1. main.py: Allows the user to choose between playing the game solo or launching the AI.
 
-2. game_solo.py: Implements the classic Snake game that can be played solo.
+2. game_solo.py: Implements the classic Snake game that can be played solo. (requires cleanup)
 
-3. game_class.py: The AI model that learns to play Snake.
+3. game_class.py: The AI model that learns to play Snake. (Work in progress)
 
 # Requirements
 - Python 3.x
